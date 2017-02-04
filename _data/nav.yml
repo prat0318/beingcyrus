@@ -1,0 +1,14 @@
+- title: "home"
+  href: "/"
+
+- title: "characters"
+  href: "/characters/"
+
+- title: "archives"
+  href: "/being-cyrus/"
+
+- title: "about"
+  href: "/about/"
+  
+- title: "external"
+  external: "https://www.gumroad.com/shamsee"
