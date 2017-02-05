@@ -58,12 +58,12 @@ mini_magick:
 
 #### SEO Stuff
 # Google Analytics
-google_universal_analytics:
+google_universal_analytics: UA-91405447-1
 google_universal_analytics_cookiedomain: auto
 
 # Facebook Opengraph
-facebook_user:
+facebook_user: beingCyrusComics
 facebook_app_id:                      #enter your App ID
 facebook_locale: en_US
-facebook_page:                        #the URL of your Facebook Page
+facebook_page: www.facebook.com/beingCyrusComics #the URL of your Facebook Page
 facebook_image: /images/being-cyrus-logo.jpg #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
