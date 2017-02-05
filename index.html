@@ -50,8 +50,10 @@ sidebar: true
 	  <a href="{{ site.baseurl }}/{{ post.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
 	</nav>
       </nav>
-      <div class="fb-like" style="padding: 5px" data-href="{{ site.baseurl }}{{ post.url }}" data-width="600" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+      <div style="padding: 5px">
+          <div class="fb-like" data-href="{{ site.baseurl }}{{ post.url }}" data-width="600" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
   </article>
+      </div>
   </div>
   {% if page.sidebar == "true" %}
     {% include asides/recent_posts.html %}
