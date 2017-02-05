@@ -1,2 +1,5 @@
 - title: "facebook"
   href: "https://www.facebook.com/beingCyrusComics"
+
+- title: "feed"
+  href: "/atom.xml"
