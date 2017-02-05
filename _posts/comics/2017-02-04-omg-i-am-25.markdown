@@ -4,8 +4,7 @@ title: "OMG I have turned 25"
 date: 2017-02-04 00:00:03 -0700
 categories: comics
 thumbnail: /images/comics/thumbs/omg-i-am-25.jpg
-facebook_type:
-facebook_image: /images/comics/omg-i-am-25.jpg
+facebook_image: /images/comics/thumbs/omg-i-am-25.jpg
 ---
 
 {% include figure.html src="omg-i-am-25.jpg" alt="OMG I have turned 25" %}
