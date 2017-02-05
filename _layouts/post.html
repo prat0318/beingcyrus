@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include asides/fb_likes.html %}
 <div class="row">
   <div>
   {% if page.sidebar == "true" %}
@@ -77,6 +78,7 @@ layout: default
 	  {% endif %}	
 	{% endif %}	
       </nav>
+      <div class="fb-like" style="padding: 5px" data-href="{{ site.baseurl }}{{ page.url }}" data-width="600" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
     </article>
   </div>
   {% if page.sidebar == "true" %}
