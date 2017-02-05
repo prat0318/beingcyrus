@@ -5,7 +5,7 @@
 <meta property="og:site_name" content="{{ site.title }}" />
 <!--<meta property="og:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.baseurl }}{% endif %}/" /> -->
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta property="og:author" content="{{ site.facebook_page }}" />
+<meta property="article:publisher" content="{{ site.facebook_page }}" />
 <meta property="og:locale" content="{{ site.facebook_locale }}" />
 <meta property="og:type" content="{% if page.facebook_type %}{{ page.facebook_type }}{% else %}article{% endif %}" />
 {% if page.facebook_image %}<meta property="og:image" content="{{ site.baseurl }}{{ page.facebook_image }}" />{% else %}<meta property="og:image" content="{{ site.facebook_image }}" />{% endif %}
