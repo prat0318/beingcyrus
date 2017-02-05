@@ -65,5 +65,6 @@ google_universal_analytics_cookiedomain: auto
 facebook_user: beingCyrusComics
 facebook_app_id: 1836781579893513 #enter your App ID
 facebook_locale: en_US
-facebook_page: www.facebook.com/beingCyrusComics #the URL of your Facebook Page
+facebook_page: https://www.facebook.com/beingCyrusComics #the URL of your Facebook Page
 facebook_image: /images/being-cyrus-logo.jpg #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+facebook_image_width: 300
