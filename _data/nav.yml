@@ -1,14 +1,8 @@
 - title: "home"
   href: "/"
 
-- title: "characters"
-  href: "/characters/"
-
 - title: "archives"
-  href: "/being-cyrus/"
+  href: "/comics/"
 
 - title: "about"
   href: "/about/"
-  
-- title: "external"
-  external: "https://www.gumroad.com/shamsee"

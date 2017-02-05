@@ -14,7 +14,7 @@ url: / #Leave this, change the baseurl.
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, image_optim_cache.yml]
 
 sidebar: false
-categories: being-cyrus
+categories: comics
 
 # Build settings
 markdown: kramdown
@@ -66,4 +66,4 @@ facebook_user:
 facebook_app_id:                      #enter your App ID
 facebook_locale: en_US
 facebook_page:                        #the URL of your Facebook Page
-facebook_image: /images/SHAM-logo.jpg #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+facebook_image: /images/being-cyrus-logo.jpg #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
