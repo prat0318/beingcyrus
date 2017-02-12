@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Watching Batman and Chill"
+date: 2017-02-12 00:00:02 -0700
+categories: comics
+thumbnail: /images/comics/thumbs/vday-2017.jpg
+facebook_image: /images/comics/small/vday-2017.jpg
+---
+
+{% include figure.html src="vday-2017.jpg" alt="Watching Batman and Chill" %}
+
